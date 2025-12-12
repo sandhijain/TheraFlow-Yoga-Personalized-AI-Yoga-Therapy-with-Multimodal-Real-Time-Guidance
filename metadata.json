@@ -1,0 +1,8 @@
+{
+  "name": "TheraFlow Yoga",
+  "description": "An AI-powered therapeutic yoga sequence generator prioritizing safety and user constraints.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
